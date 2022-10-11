@@ -16,6 +16,7 @@ circuit diagram to follow.
 
 #### TODO: 
 
-[]circuit diagram  
-[] photos for repair guide  
-[] bill of materials
+[ ] publish circuit diagram  
+[ ] photos for repair guide  
+[ ] pinout for repair guide  
+[ ] bill of materials
