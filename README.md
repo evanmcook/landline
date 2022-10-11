@@ -14,7 +14,8 @@ these carbon-equivalent electret mics sound great, but if you're after the grit 
 
 circuit diagram to follow.  
 
-TODO: 
+####TODO: 
+
 []circuit diagram  
 [] photos for repair guide  
 [] bill of materials
