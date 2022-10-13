@@ -8,6 +8,7 @@ connect the supplied handset to the XLR-4 connector on the right side of the Lan
 
 the switch in the middle of the Landline box controls the mic selection.  
 switch to the left is the dynamic earpiece element.  
+  
 switch to the right is the carbon mouthpiece element.  
 this option requires phantom power and likely will require a pad to prevent clipping your mixer or interface.  
 
