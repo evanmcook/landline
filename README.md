@@ -4,8 +4,8 @@ hardware for making old telephone handsets into XLR inputs
 [user manual](https://github.com/evanmcook/landline/blob/main/user%20manual/manual.md)
 
 ### the earpiece  
-turns out that the earpiece of most older telephone handsets is a simple dynamic element.
-wire it to a 6.35mm plug, or pins 2 and 3 of an XLR-3 connector, and you've got yourself a microphone
+turns out that the earpiece of most older telephone handsets is a simple dynamic element.  
+in other applications, one can wire it to a 6.35mm plug, or pins 2 and 3 of an XLR-3 connector, and you've got yourself a microphone.
 
 ### the mouthpiece
 
