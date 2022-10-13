@@ -1,7 +1,8 @@
 # Landline
 hardware for making old telephone handsets into XLR inputs  
 
-[user manual](https://github.com/evanmcook/landline/blob/main/user%20manual/manual.md)
+[quickstart card](https://github.com/evanmcook/landline/blob/main/manuals/quickStartGuide.png)  
+[user manual](https://github.com/evanmcook/landline/blob/main/manuals/manual.md)
 
 ### the earpiece  
 turns out that the earpiece of most older telephone handsets is a simple dynamic element.  
