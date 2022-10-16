@@ -23,7 +23,7 @@ these carbon-equivalent electret mics sound great, but if you're after the grit 
 
 ### the ins & outs
 
-circuit diagram to follow.  
+[here's how it all fits together.](https://github.com/evanmcook/landline/blob/main/build%20documentation/landlineCircuit.png)  
 
 
 ## handset parts list
