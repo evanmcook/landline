@@ -23,8 +23,14 @@ these carbon-equivalent electret mics sound great, but if you're after the grit 
 
 ### the ins & outs
 
-[here's how it all fits together.](https://github.com/evanmcook/landline/blob/main/build%20documentation/landlineCircuit.png)  
+[here's how it all fits together inside an evancook.audio Landline.](https://github.com/evanmcook/landline/blob/main/build%20documentation/landlineCircuit.png)  
 
+### putting it all in an enclosure  
+it's difficult to do this cost-effectively if you want a single copy of a professional-looking product.  
+tayda is the best place to get one-of-one enclosures drilled, but at the time of publishing, they will not drill small holes for a neutrik screw.  
+as is the case with most maker activities, it's always more afforable if you have the tools.  
+
+in 2022, i used pedal parts plus. they have a minimum order of 25 units.
 
 ## handset parts list
 
